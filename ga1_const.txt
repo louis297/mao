@@ -1,0 +1,4 @@
+# use '#' as comment like python files here
+# format:
+# name, low bound, high bound
+# empty space or tab will be ignored, use comma ',' to split the values
